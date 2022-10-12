@@ -7,10 +7,10 @@ def HaikuX():
     print("haiku by:","AUTHOR")
     print("BAZINGA BAZINGA ")
     print("Goeie morgen")
-    print("REGEL3")
+    print("je mama is een ezel")
 def HaikuX():
     print("haiku by:","AUTHOR")
-    print("gadinga gadinga")
+    print("")
     print("REGEL2")
     print("REGEL3")
 def HaikuX():
