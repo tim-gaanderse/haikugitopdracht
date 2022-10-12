@@ -18,6 +18,7 @@ def HaikuX():
     print("pim")
     print("ring")
     print("ding")
+    print ("bazinga bazinga bazinga bazingabazinga bazingabazinga bazingabazinga bazingabazinga bazingabazinga bazingabazinga bazingabazinga bazingabazinga bazingabazinga bazinga")
 
 
 
