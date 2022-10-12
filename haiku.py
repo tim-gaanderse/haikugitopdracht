@@ -15,9 +15,9 @@ def HaikuX():
     print("en ik heb zin")
 def HaikuX():
     print("haiku by:","AUTHOR")
-    print("REGEL1")
-    print("REGEL2")
-    print("REGEL3")
+    print("pim")
+    print("ring")
+    print("ding")
 
 
 
