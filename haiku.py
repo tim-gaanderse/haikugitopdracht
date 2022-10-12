@@ -1,6 +1,14 @@
 
 
 #plak hier de haiku functions onder elkaar
+## Haiku function template
+
+def HaikuX():
+    print("haiku by:","AUTHOR")
+    print("REGEL1")
+    print("REGEL2")
+    print("REGEL3")
+
 
 
 
