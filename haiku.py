@@ -10,7 +10,7 @@ def HaikuX():
     print("REGEL3")
 def HaikuX():
     print("haiku by:","AUTHOR")
-    print("REGEL1")
+    print("gadinga gadinga")
     print("REGEL2")
     print("REGEL3")
 def HaikuX():
