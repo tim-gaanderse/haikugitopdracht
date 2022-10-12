@@ -10,9 +10,9 @@ def HaikuX():
     print("je mama is een ezel")
 def HaikuX():
     print("haiku by:","AUTHOR")
-    print("")
-    print("REGEL2")
-    print("REGEL3")
+    print("mijn naam is tim")
+    print("ik ben super slim")
+    print("en ik heb zin")
 def HaikuX():
     print("haiku by:","AUTHOR")
     print("REGEL1")
