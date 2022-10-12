@@ -9,7 +9,7 @@ def HaikuX():
     print("REGEL2")
     print("REGEL3")
 
-
+print ("bazinga")
 
 
 
